@@ -1,6 +1,6 @@
 {
-  "name": "@unicef/react-org-chart",
-  "version": "0.3.4",
+  "name": "@skgandikota/react-org-chart",
+  "version": "1.0.0",
   "description": "Simple, high-performance react component for d3 org chart",
   "main": "dist/index.js",
   "directories": {
@@ -9,10 +9,10 @@
   "files": [
     "dist/index.js"
   ],
-  "homepage": "https://unicef.github.io/react-org-chart",
+  "homepage": "https://skgandikota.github.io/react-org-chart",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unicef/react-org-chart.git"
+    "url": "git+https://github.com/skgandikota/react-org-chart.git"
   },
   "scripts": {
     "start": "webpack --watch --mode production",
